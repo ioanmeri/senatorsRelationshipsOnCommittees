@@ -6,3 +6,5 @@
 * D3 is used to visualize the data as a **force directed graph**.
 * The data show senators (most of them are democrats and republicans) on committees and are stored in a csv file.
 * Toggle functionality for certain committees is supported and the graph updates to only show senators from these committees.
+
+Note: Local http-server is required to run the app (in a order to make the csv request)
